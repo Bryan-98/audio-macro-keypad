@@ -13,7 +13,7 @@ This is my first attempt at a macro pad. This pcb board uses an arduino pro micr
 * Up to 3 key combination press per key i.e (CTRL+ALT+DEL)
 * Addressable RGB LEDs![Uploading macro_audio_keypad_top_view.png…]()
 
-## My Software [](https://github.com/Bryan-98/Macro-KeyPad-Editor)
+## My Software [GitHub Repo](https://github.com/Bryan-98/Macro-KeyPad-Editor)
 ![Macro Keypad Editor](https://github.com/user-attachments/assets/08f53be9-cdf3-4395-856e-761554e2826d)
 Using my cusotm tkinter python program you will be able to change the rgb leds, change each keys macro and choose an audio program for each rotary encoder.
 
