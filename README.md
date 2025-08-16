@@ -27,6 +27,8 @@ Using my cusotm tkinter python program you will be able to change the rgb leds, 
 * 15x N4148 Small Signal Fast Switching Diodes
 
 ## 3D Printed case
+<img width="1904" height="1219" alt="case" src="https://github.com/user-attachments/assets/ffba5525-689e-4dbf-adc6-4221c64c99e9" />
+* 
 
 
 ## Complete Build
