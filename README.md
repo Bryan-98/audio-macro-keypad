@@ -28,8 +28,6 @@ Using my cusotm tkinter python program you will be able to change the rgb leds, 
 
 ## 3D Printed case
 <img width="1904" height="1219" alt="case" src="https://github.com/user-attachments/assets/ffba5525-689e-4dbf-adc6-4221c64c99e9" />
-* 
-
 
 ## Complete Build
 ![Complete Built](https://github.com/user-attachments/assets/cbe81b89-c787-4e13-aebd-2a91dd3e954f)
