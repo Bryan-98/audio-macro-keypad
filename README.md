@@ -6,7 +6,6 @@
 ### Bottom View
 <img width="2364" height="1298" alt="macro_audio_keypad_bottom_view" src="https://github.com/user-attachments/assets/eb944f24-c4d1-4950-9781-c8c1e1afc6b0" />
 
-
 This is my first attempt at a macro pad. This pcb board uses an arduino pro micro similar to Sparkfun Pro Micro 5V/16MHz.
 
 ## Features
