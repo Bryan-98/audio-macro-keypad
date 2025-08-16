@@ -20,6 +20,7 @@ Using my cusotm tkinter python program you will be able to change the rgb leds, 
 ## Components
 * Compatible Arduino pro micro: [Pro Micro 5v/16MHz by Sparkfun](https://www.sparkfun.com/pro-micro-5v-16mhz.html)
 * i2c oled pinout
+  - SSD1306 module
 * 3x EC11 rotary encoders with switch
 * 5x WS2812B RGB LEDs
 * 12x MX style hotswap sockets
