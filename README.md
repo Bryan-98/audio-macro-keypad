@@ -11,17 +11,16 @@ This is my first attempt at a macro pad. This pcb board uses an arduino pro micr
 ## Features
 * Windows audio control
 * Up to 3 key combination press per key i.e (CTRL+ALT+DEL)
-* Addressable RGB LEDs![Uploading macro_audio_keypad_top_view.png…]()
+* Addressable RGB LEDs
 
-## My Software [GitHub Repo](https://github.com/Bryan-98/Macro-KeyPad-Editor)
-![Macro Keypad Editor](https://github.com/user-attachments/assets/08f53be9-cdf3-4395-856e-761554e2826d)
+## My Software: [GitHub Repo](https://github.com/Bryan-98/Macro-KeyPad-Editor)
+![Macro Keypad Editor](https://github.com/user-attachments/assets/ff46ae43-0811-4e45-b983-477b82e0f548)
 Using my cusotm tkinter python program you will be able to change the rgb leds, change each keys macro and choose an audio program for each rotary encoder.
 
 ## Components
+* Compatible Arduino pro micro: [Pro Micro 5v/16MHz by Sparkfun](https://www.sparkfun.com/pro-micro-5v-16mhz.html)
 * i2c oled pinout
 * 3x EC11 rotary encoders with switch
 * 5x WS2812B RGB LEDs
 * 12x MX style hotswap sockets
 * 15x N4148 Small Signal Fast Switching Diodes
-
-## Compatible Arduino pro micro: [Pro Micro 5v/16MHz by Sparkfun](https://www.sparkfun.com/pro-micro-5v-16mhz.html)
