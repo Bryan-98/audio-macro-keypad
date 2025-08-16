@@ -1,5 +1,11 @@
 # Arduino Pro Micro based keypad
+
+### Top View
 <img width="2364" height="1298" alt="macro_audio_keypad_top_view" src="https://github.com/user-attachments/assets/81131219-eaf9-489f-81bb-fe2c5943c02b" />
+
+### Bottom View
+<img width="2364" height="1298" alt="macro_audio_keypad_bottom_view" src="https://github.com/user-attachments/assets/eb944f24-c4d1-4950-9781-c8c1e1afc6b0" />
+
 
 This is my first attempt at a macro pad. This pcb board uses an arduino pro micro similar to Sparkfun Pro Micro 5V/16MHz.
 
@@ -9,11 +15,13 @@ This is my first attempt at a macro pad. This pcb board uses an arduino pro micr
 * Addressable RGB LEDs![Uploading macro_audio_keypad_top_view.png…]()
 
 ## My Software [](https://github.com/Bryan-98/Macro-KeyPad-Editor)
+![Macro Keypad Editor](https://github.com/user-attachments/assets/08f53be9-cdf3-4395-856e-761554e2826d)
+Using my cusotm tkinter python program you will be able to change the rgb leds, change each keys macro and choose an audio program for each rotary encoder.
 
 ## Components
 * i2c oled pinout
 * 3x EC11 rotary encoders with switch
-* 4x WS2812B RGB LEDs
+* 5x WS2812B RGB LEDs
 * 12x MX style hotswap sockets
 * 15x N4148 Small Signal Fast Switching Diodes
 
