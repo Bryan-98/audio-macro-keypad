@@ -26,5 +26,8 @@ Using my cusotm tkinter python program you will be able to change the rgb leds, 
 * 12x MX style hotswap sockets
 * 15x N4148 Small Signal Fast Switching Diodes
 
+## 3D Printed case
+
+
 ## Complete Build
 ![Complete Built](https://github.com/user-attachments/assets/cbe81b89-c787-4e13-aebd-2a91dd3e954f)
